@@ -1,2 +1,6 @@
 # Wypozyczalnia-Samochodowa
-DSP 2k17
+Zalozenia:
+  Implementacja podstawowych funkconalnosci typowej aplikacji wypozyczalni
+  
+  Cel:
+    Praktyczny trening OOP. Nauka polimorfizmu, dziedziczenia, głównych mechanizmów programowania obiektowego.
